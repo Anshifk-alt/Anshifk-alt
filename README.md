@@ -55,7 +55,7 @@ I am passionate about building AI-powered applications using Generative AI, Larg
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: www.linkedin.com/in/anshif-k-04a60838a
 - GitHub: https://github.com/Anshifk-alt
 
 ---
